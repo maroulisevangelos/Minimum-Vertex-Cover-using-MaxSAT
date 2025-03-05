@@ -3,13 +3,13 @@ This project implements an algorithm to find the Minimum Vertex Cover of an undi
 
 Features:
 
-  Input File Mode: Reads the graph details from a user-specified text file (graph.txt) that includes the number of nodes, graph density, and adjacency matrix.
-  
-  Random Graph Mode: Generates a random graph based on user-specified parameters (number of nodes and density).
-  
-  MaxSAT Solver Integration: Constructs a DIMACS format input file for a MaxSAT solver, runs the solver, and processes the output to find the Minimum Vertex Cover.
-  
-  Result Output: Prints the solution, including the nodes in the Minimum Vertex Cover.
+    Input File Mode: Reads the graph details from a user-specified text file (graph.txt) that includes the number of nodes, graph density, and adjacency matrix.
+    
+    Random Graph Mode: Generates a random graph based on user-specified parameters (number of nodes and density).
+    
+    MaxSAT Solver Integration: Constructs a DIMACS format input file for a MaxSAT solver, runs the solver, and processes the output to find the Minimum Vertex Cover.
+    
+    Result Output: Prints the solution, including the nodes in the Minimum Vertex Cover.
 
 Implementation Details:
 
